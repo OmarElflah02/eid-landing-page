@@ -25,8 +25,7 @@ This project was created to celebrate **Eid Al-Fitr** and practice building a mo
 - Font Awesome
 
 ## 🔗 Live Demo
-https://your-live-demo-link.com
-
+https://omarelflah02.github.io/eid-landing-page/
 ---
 
 ✨ Eid Mubarak to everyone!
